@@ -31,5 +31,5 @@ hero1.attack()
 
 let hero2 = new hero('Power ranger vermelho', 23, 'guerreiro')
 
-// console.log(hero2)
-// hero2.attack()
+ console.log(hero2)
+ hero2.attack()
